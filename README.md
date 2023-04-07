@@ -1,4 +1,4 @@
-# pytest_acyhk
+# pytest-acyhk
 
 Using selenium to run register form under pytest framework.
 There are mainly two function under this repo:
