@@ -14,8 +14,10 @@ Future optimize part
 6. Check whether after country select match the auto-filled in phone district.
 
 Follow steps bellow to run the test:
-1. git clone https://github.com/51st-F/pytest_acyhk.git
-2. cd pytest_acyhk
-3. pipenv shell
-4. pipenv install
-5. pytest -v
+'''
+git clone https://github.com/51st-F/pytest_acyhk.git
+cd pytest_acyhk
+pipenv shell
+pipenv install
+pytest -v
+'''
